@@ -16,9 +16,10 @@
 #include <memory>
 #include <string>
 #include <vector>
+#include <iostream>
 
 #include "OpusCodec.h"
-#include "common/RLog.h"
+#include "RLog.h"
 
 namespace rgaa
 {
